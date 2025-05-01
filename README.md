@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4AC0F7&background=FFFFFF00&width=435&lines=Welcome+to+the+YuBin's+Github)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&multiline=true&width=435&lines=Welcome+Ladies+and+Gentlemen;This+is+Yubin's+GitHub)](https://git.io/typing-svg)
 
 <!--
 **JeongYuBin/JeongYuBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
