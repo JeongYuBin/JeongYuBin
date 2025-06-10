@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently Student in KWU
 - 🌱 I’m currently learning Java, Deeplearning
+- 💬 Ask me about everything
 <!--
 **JeongYuBin/JeongYuBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
