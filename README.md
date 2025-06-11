@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&multiline=true&width=435&lines=Welcome+Ladies+and+Gentlemen;This+is+Yubin's+GitHub)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Student in KWU
-- 🌱 I’m currently learning Java, Deeplearning
+- 🌱 I’m currently learning Java, Python, Deeplearning
 - 💬 Ask me about everything
 <!--
 **JeongYuBin/JeongYuBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
