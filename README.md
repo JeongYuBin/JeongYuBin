@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Graduated from **KWU (Kwangwoon University)**
 - 💻 Backend Developer (Java / Python)
-- 🔍 Interested in **Data, Finance IT, System Design**
+- 🔍 Interested in **Data, Finance IT, System Design, Network**
 - 🚀 Building services that solve real-world problems
 
 ---
